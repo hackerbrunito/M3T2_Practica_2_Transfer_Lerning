@@ -1,5 +1,6 @@
-Este repositorio contiene la Práctica 2 completa.
+Este repositorio contiene 2 notebooks para los 2 ejercicios de la `Práctica 2` completa.
 
-El archivo con la estructura original contiene el `Ejercicio 1` resuelto al 100%.
+`Ejercicio 1` resuelto esta en M3T2_CarlosValSouto_Ejercicio_1_Prac2.ipynb
 
-Hay un segundo notebook con la resolución completa del `Ejercicio 2`
+`Ejercicio 2` resuelto esta en M3T2_CarlosValSouto_Ejercicio_2_Prac2.ipynb
+
